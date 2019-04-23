@@ -34,6 +34,16 @@ Output: language-independent vector representation, so you can compare text acro
 Pre-trained model and API: https://github.com/epfl-dlab/Cr5 (Numpy/cython/Intel stuff)
 Paper: "Crosslingual Document Embeddingas Reduced-Rank Ridge Regression" https://dlab.epfl.ch/people/west/pub/Josifoski-Paskov-Paskov-Jaggi-West_WSDM-19.pdf
 
+
+Contextual word representations derived from large-scale neural language models are successful across a diverse set of NLP tasks, suggesting that they encode useful and transferable features of language. To shed light on the linguistic knowledge they capture, we study the representations produced by several recent pretrained contextualizers (variants of ELMo, the OpenAI transformer language model, and BERT) with a suite of sixteen diverse probing tasks. 
+Linguistic Knowledge and Transferability of Contextual Representations - https://arxiv.org/abs/1903.08855
+-->
+"our analysis of patterns in the transferability of contextualizer layers shows that 
+1) the lowest layer of LSTMs encodes the most transferable features, while transformers’ middle layers are most transferable. 
+2) We find that higher layers in LSTMs are more task-specific (and thus less general)
+3) while transformer layers do not exhibit this same monotonic increase in task-specificity. 
+Prior work  has  suggested  that  higher-level  contextualizer layers may be expressly encoding higher-level semantic information. Instead, it seems likely that certain  high-level  semantic  phenomena  are  incidentally  useful  for  the  contextualizer’s  pretraining task,  leading to their presence in higher layers.    
+4) Lastly,  we  find  that  bidirectional  language model  pretraining  yields  representations  that  are more transferable in general than eleven other candidate pretraining tasks"
    
 ### Knowledge and Representations
 A Unified Theory of Inference for Text Understanding  
@@ -66,6 +76,12 @@ https://fosdem.org/2019/schedule/event/graph_weaviate_knowledge_graph/
 ### Sign Language
 Sign Language & Linguistics  
 https://benjamins.com/catalog/sll
+
+### Benchmarks
+
+Introducing SuperGLUE: A New Hope Against Muppetkind - https://medium.com/@wang.alex.c/introducing-superglue-a-new-hope-against-muppetkind-2779fd9dcdd5
+ a benchmark for evaluating general-purpose NLP models based on evaluation on a diverse set of language understanding tasks.
+
 
 ## Tool, Code, Application  
 
@@ -129,7 +145,22 @@ http://jalammar.github.io/
 DEEP LEARNING EXPLAINED   
 https://www.lyrn.ai/  
 
+Import AI (weekly)
+https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c
+
+NLP News (monthly)
+http://newsletter.ruder.io/
 
 ## Others
 The power of words to shape perception  
 https://www.scientificamerican.com/article/our-language-affects-what-we-see/
+
+
+
+## State of the art summary
+
+State-of-the-art Multilingual Lemmatization
+An analysis of state-of-the-art lemmatizers that work for tens of languages
+https://towardsdatascience.com/state-of-the-art-multilingual-lemmatization-f303e8ff1a8
+
+Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. https://nlpprogress.com/
