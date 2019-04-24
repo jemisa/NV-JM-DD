@@ -82,6 +82,27 @@ https://benjamins.com/catalog/sll
 Introducing SuperGLUE: A New Hope Against Muppetkind - https://medium.com/@wang.alex.c/introducing-superglue-a-new-hope-against-muppetkind-2779fd9dcdd5
  a benchmark for evaluating general-purpose NLP models based on evaluation on a diverse set of language understanding tasks.
 
+## models
+### Transformer
+The Annotated Transformer - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+The Illustrated Transformer - https://jalammar.github.io/illustrated-transformer/
+How Transformers Work - https://towardsdatascience.com/transformers-141e32e69591
+
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - http://jalammar.github.io/illustrated-bert/
+Transformer-XL Explained:  - https://towardsdatascience.com/transformer-xl-explained-combining-transformers-and-rnns-into-a-state-of-the-art-language-model-c0cfe9e5a924
+
+
+
+
+### Sparse Transformer
+https://openai.com/blog/sparse-transformer/
+
+that predicts what comes next in a sequence,  30x longer than possible previously.
+
+
+it does text part (7.2 in the paper )
+
+"parse Transformers and showed they attain equivalent or better performance on density modeling of long sequences than standard Transformers while requiring significantly fewer operations. "
 
 ## Tool, Code, Application  
 
