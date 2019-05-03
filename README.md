@@ -52,7 +52,7 @@ https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
 Knowledge Graph Intros    
 https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-2-building-a-knowledge-graph-2fdd1370bb0a
 https://medium.com/@sderymail/challenges-of-knowledge-graph-part-1-d9ffe9e35214
-
+Better Knowledge Graphs Through Probabilistic Graphical Models - https://www.youtube.com/watch?v=z_VzaNy36xE
 
 A general framework for learning context-based action representation for Reinforcement Learning  
 https://arxiv.org/abs/1902.01119
@@ -115,6 +115,14 @@ https://openai.com/blog/better-language-models/
 
 PyTorch Pretrained BERT: The Big & Extending Repository of pretrained Transformers  
 https://github.com/huggingface/pytorch-pretrained-BERT  
+
+
+Generalized Language Models, coverts in four parts CoVe, ELMo & Cross-View Training, Part 2: ULMFiT & OpenAI GPT, Part 3: BERT & OpenAI GPT-2
+and Part 4: Common Tasks & Datasets
+https://www.topbots.com/generalized-language-models-cove-elmo/
+
+Open WebText – an open source effort to reproduce OpenAI’s WebText dataset, to train GPT and other Transformers  models (sparse, XL,...)
+https://skylion007.github.io/OpenWebTextCorpus/
 
 ### Knowledge 
 How NASA experiments with knowledge discovery  
