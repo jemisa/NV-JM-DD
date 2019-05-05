@@ -155,7 +155,8 @@ http://geometricdeeplearning.com/
 
 ### Colorization, Super resolution (images)
 Decrappification, DeOldification, and Super Resolution - https://www.fast.ai/2019/05/03/decrappify/
-
+(sample colorization: https://mobile.twitter.com/citnaj/status/1124565367743963136
+original: https://www.youtube.com/watch?v=dQRAsKnCmX8 (colorized scene stats around 13:30) )
 
 ## Data
 
