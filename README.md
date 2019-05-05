@@ -73,6 +73,12 @@ Decentralised Knowledge Graph
 https://www.youtube.com/watch?v=hm9ibPZOUcw
 https://fosdem.org/2019/schedule/event/graph_weaviate_knowledge_graph/
 
+Text Generation from Knowledge Graphs with Graph Transformers - https://arxiv.org/abs/1904.02342
+and the author presenting the paper: https://www.youtube.com/watch?v=BiRyvB2NmCM
+
+
+Understanding Graph Attention Network (GAT) - https://www.dgl.ai/blog/2019/02/17/gat.html
+
 ### Sign Language
 Sign Language & Linguistics  
 https://benjamins.com/catalog/sll
@@ -136,9 +142,19 @@ http://gltr.io/dist/index.html
 Plotto, "algebra" for stories   
 https://github.com/garykac/plotto/blob/gh-pages/how-to.md
 
+Doctoral thesis: “Humour-in-the-loop: Improvised Theatre with Interactive Machine Learning Systems” - https://korymathewson.com/phd/
+===> references dAIrector, a structured graph plot generation using Plotto and TVTropes
+dAIrector: Automatic Story Beat Generation through Knowledge Synthesis - https://arxiv.org/abs/1811.03423
+===> Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue - https://arxiv.org/abs/1901.11528
+===> https://improbotics.org/ - An Improvised Theatre Experiment
+
 ### Graph neural network in NLP, Geometric Deeplearning on graphs
 Geometric deep learning   
 http://geometricdeeplearning.com/  
+
+
+### Colorization, Super resolution (images)
+Decrappification, DeOldification, and Super Resolution - https://www.fast.ai/2019/05/03/decrappify/
 
 
 ## Data
@@ -183,8 +199,6 @@ http://newsletter.ruder.io/
 ## Others
 The power of words to shape perception  
 https://www.scientificamerican.com/article/our-language-affects-what-we-see/
-
-
 
 ## State of the art summary
 
